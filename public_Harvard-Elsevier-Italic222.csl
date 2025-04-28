@@ -3,7 +3,7 @@
   <info>
     <title>Harvard-Elsevier-Italic</title>
     <id>http://www.zotero.org/styles/harvard-elsevier-italic</id>
-    <link href="http://www.zotero.org/styles/harvard-elsevier" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard" rel="self"/>
     <author>
       <name>OpenAI GPT Mod</name>
     </author>
@@ -27,4 +27,3 @@
     </layout>
   </bibliography>
 </style>
-
